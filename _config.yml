@@ -17,3 +17,5 @@ github_username:  vijaytholpadi
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
